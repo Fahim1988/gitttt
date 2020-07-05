@@ -6,6 +6,7 @@ public class Home {
 		// TODO Auto-generated method stub
 		
 		System.out.println("First");
+		System.out.println("Second");
 
 	}
 
